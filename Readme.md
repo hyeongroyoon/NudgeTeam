@@ -11,7 +11,7 @@ HUFS 2019-1
 
 :arrow_forward:##Nudge 팀원 구성 및 역할
 
-|이름(bold)|전공(bold)|담당(bold)|Email(bold)|
+|이름|전공|담당|Email|
 |:-------:|:-------:|:------:|:--------:|
 |윤형로(bold)|국제금융|DB/git|<dbsgudfh94@gmail.com/>|
 |김영주|경영정보|Server(Django)/Algorithm|<kyle2123@naver.com/>|
