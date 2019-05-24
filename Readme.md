@@ -1,6 +1,6 @@
 HUFS 2019 Team Nudge Capstone Design:mortar_board:
 ==========
-Nudge
+Nudge(냉장고를 부탁해)
 -----
 
 ~~~
@@ -9,7 +9,7 @@ Nudge
 2. 사업배경
 3. 사업소개
 4. 시스템 구성도
-5. UI 
+5. System UI 
 ~~~
 
 :one:
@@ -39,7 +39,7 @@ Nudge
 #
 #
 
-:three: **사업명 냉장고를 부탁해**
+:three: **사업소개**
 
 * 냉장고 내부를 스마트폰 카메라로 인식  
 
@@ -49,5 +49,9 @@ Nudge
 #
 
 
-:four: **시스템 구성도**
+:four: **System Architecture**
 ![architecture](https://user-images.githubusercontent.com/49775240/58313386-647a6a00-7e48-11e9-9b02-d54c94d4f13b.png)
+
+#
+#
+:five: System UI
