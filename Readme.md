@@ -1,6 +1,6 @@
 HUFS 2019 Team Nudge Capstone Design:mortar_board:
 ==========
-Nudge(사람들을 유도하는 부드러운 개입)
+Nudge
 -----
 
 ~~~
