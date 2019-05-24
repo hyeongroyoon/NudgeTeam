@@ -16,7 +16,7 @@ Nudge
 
 |이름|전공|담당|Email|
 |:-------:|:-------:|:------:|:--------:|
-|**윤형로(bold)**|국제금융|DB/git|<dbsgudfh94@gmail.com/>|
+|**윤형로**|국제금융|DB/git|<dbsgudfh94@gmail.com/>|
 |김영주|경영정보|Server(Django)/Algorithm|<kyle2123@naver.com/>|
 |이민기|경영정보|AWS 서버 구축|<midgaslmg94@gmail.com/>|
 |정기욱|아랍어통번역|ML모델링/개발|<ismeek17@naver.com/>|
