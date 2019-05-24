@@ -22,7 +22,7 @@ Nudge(냉장고를 부탁해)
 |이민기|경영정보|AWS 서버 구축|<midgaslmg94@gmail.com>|
 |정기욱|아랍어통번역|ML모델링/개발|<ismeek17@naver.com>|
 |표승수|국제금융|DB설계-Django연동|<psslego@gmail.com>|
-|황선기|경영정보|Server(Django)호환/git|<sksk8814@naver.com>|  
+|황선기|경영정보|Server(Django)호환/github VCS|<sksk8814@naver.com>|  
 
 
 #
