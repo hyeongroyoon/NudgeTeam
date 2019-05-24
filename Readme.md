@@ -22,11 +22,11 @@ Nudge
 |이민기|경영정보|AWS 서버 구축|<midgaslmg94@gmail.com>|
 |정기욱|아랍어통번역|ML모델링/개발|<ismeek17@naver.com>|
 |표승수|국제금융|DB설계-Django연동|<psslego@gmail.com>|
-|황선기|경영정보|Server(Django)호환/git|<sksk8814@naver.com>|
+|황선기|경영정보|Server(Django)호환/git|<sksk8814@naver.com>|  
 
 
-
-
+#
+#
 
 
 :two: **사업배경**
@@ -36,8 +36,8 @@ Nudge
 * 기존에 있는 서비스는 일일이 재료를 입력해줘야 하는 불편함이 있다.
 
 
-
-
+#
+#
 
 :three: **사업명 냉장고를 부탁해**
 
@@ -45,8 +45,8 @@ Nudge
 
 * 인식된 재료를 바탕으로 만들 수 있는 음식의 레시피를 추천
 
-      
-
+#     
+#
 
 
 :four: **시스템 구성도**
