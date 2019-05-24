@@ -1,4 +1,4 @@
-:mortar_board:# HUFS 2019 Team Nudge 종합설계 프로젝트
+:mortar_board: HUFS 2019 Team Nudge 종합설계 프로젝트
 ==========
 Nudge(사람들을 유도하는 부드러운 개입)
 -----
@@ -12,7 +12,7 @@ HUFS 2019-1
 :arrow_forward:##Nudge 팀원 구성 및 역할
 
 |이름(bold)|전공(bold)|담당(bold)|Email(bold)|
-|::|::|::|::|
+|:-------:|:-------:|:------:|:--------:|
 |윤형로(bold)|국제금융|DB/git|<dbsgudfh94@gmail.com/>|
 |김영주|경영정보|Server(Django)/Algorithm|<kyle2123@naver.com/>|
 |이민기|경영정보|AWS 서버 구축|<midgaslmg94@gmail.com/>|
