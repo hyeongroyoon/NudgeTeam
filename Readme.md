@@ -1,6 +1,6 @@
 HUFS 2019 Team Nudge Capstone Design:mortar_board:
 ==========
-Nudge(냉장고를 부탁해)
+Nudge(냉장고를 부탁해):fork_and_knife:
 -----
 
 ~~~
@@ -63,7 +63,7 @@ Nudge(냉장고를 부탁해)
 
 :six: **System UI**
 
-|**App Icon**|**page1**|
+|**App Icon**:iphone:|**page1**|
 |:-------:|:-------:|
 |![대지 1](https://user-images.githubusercontent.com/49775240/58798091-b0918f80-863c-11e9-9b64-593fa17ee5ad.png)|![KakaoTalk_20190603_184202529](https://user-images.githubusercontent.com/49775240/58795703-4fff5400-8636-11e9-9799-ff72b5e73ea0.png)|
 
