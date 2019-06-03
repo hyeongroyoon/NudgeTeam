@@ -63,16 +63,16 @@ Nudge(냉장고를 부탁해):fork_and_knife:
 
 :six: **System UI**
 
-|**App Icon**:iphone:|:one:**오늘의 레시피 추천(첫화면)**|
+|**App Icon**:iphone:|**1. 오늘의 레시피 추천(첫화면)**|
 |:-------:|:-------:|
 |![대지 1](https://user-images.githubusercontent.com/49775240/58798091-b0918f80-863c-11e9-9b64-593fa17ee5ad.png)|![KakaoTalk_20190603_184202529](https://user-images.githubusercontent.com/49775240/58795703-4fff5400-8636-11e9-9799-ff72b5e73ea0.png)|
 
 
-|:two:**재료 인식 화면**|:three:**인식된 재료 목록**|
+|**2. 재료 인식 화면**|**3. 인식된 재료 목록**|
 |:-------:|:-------:|
 |![KakaoTalk_20190603_190326910](https://user-images.githubusercontent.com/49775240/58795762-71f8d680-8636-11e9-8757-b7e18e976623.png)|![KakaoTalk_20190603_190323091](https://user-images.githubusercontent.com/49775240/58797750-bfc40d80-863b-11e9-97d9-4a3a88f6d721.png)|
 
-|:four:**추천받은 음식 목록**|:five:**선택한 음식 레시피 화면**|
+|**4. 추천받은 음식 목록**|**5. 선택한 음식 레시피 화면**|
 |:-------:|:-------:|
 |![KakaoTalk_20190603_191537590_01](https://user-images.githubusercontent.com/49775240/58797853-00bc2200-863c-11e9-8075-4cb66d35438b.png)|![KakaoTalk_20190603_191046552_01](https://user-images.githubusercontent.com/49775240/58797922-2d703980-863c-11e9-8ba8-017174d873e9.png)|
 
