@@ -58,7 +58,7 @@ Nudge(냉장고를 부탁해)
 
 |page1|page2|
 |:-------:|:-------:|
-|![KakaoTalk_20190603_184202529](https://user-images.githubusercontent.com/49775240/58795703-4fff5400-8636-11e9-9799-ff72b5e73ea0.png)
+|![KakaoTalk_20190603_184202529](https://user-images.githubusercontent.com/49775240/58795703-4fff5400-8636-11e9-9799-ff72b5e73ea0.png)|
 |![KakaoTalk_20190603_190326910](https://user-images.githubusercontent.com/49775240/58795762-71f8d680-8636-11e9-8757-b7e18e976623.png)|
 
 
