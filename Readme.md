@@ -54,7 +54,14 @@ Nudge(냉장고를 부탁해)
 
 #
 #
-:five: **System UI**
+
+"five" **DB Architecture**
+![KakaoTalk_20190603_191419846](https://user-images.githubusercontent.com/49775240/58798546-e125f900-863d-11e9-8782-7947449ab7dc.png)
+
+#
+#
+
+:six: **System UI**
 
 |**App Icon**|**page1**|
 |:-------:|:-------:|
